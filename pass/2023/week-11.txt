@@ -1,0 +1,142 @@
+Objectively Football PASS ranking
+Season: 2023
+Through: Week 11
+Published: 2026-10-24 02:45 CDT
+Teams: 133
+Method: https://objectivelyfootball.com
+Archive: https://rankings.objectivelyfootball.com/
+
+  Rk  Team                   PASS
+   1  Michigan               63.3633
+   2  Alabama                58.7712
+   3  Washington             58.7373
+   4  Ohio St.               58.5021
+   5  Florida St.            49.2352
+   6  Georgia                38.5387
+   7  Texas                  35.1094
+   8  Missouri               33.1377
+   9  Oklahoma               28.1999
+  10  Oregon St.             27.6400
+  11  Penn St.               27.3725
+  12  Louisville             27.1371
+  13  Mississippi            25.9420
+  14  Oregon                 25.2889
+  15  Kansas St.             25.1215
+  16  LSU                    24.3841
+  17  James Madison          21.9072
+  18  Utah                   21.6055
+  19  Iowa                   20.5823
+  20  Notre Dame             20.0068
+  21  USC                    19.5886
+  22  Oklahoma St.           18.9481
+  23  Troy                   16.1285
+  24  Miami (FL)             16.0910
+  25  Tennessee              15.9387
+  26  Tulane                 15.8711
+  27  North Carolina         15.6776
+  28  Clemson                15.2078
+  29  North Carolina St.     15.0970
+  30  Kansas                 14.9565
+  31  Texas A&M              14.8882
+  32  Duke                   14.8852
+  33  Iowa St.               14.0274
+  34  Auburn                 13.3208
+  35  Toledo                 12.0627
+  36  Miami (OH)             11.0766
+  37  Coastal Carolina       11.0198
+  38  Arizona                10.8206
+  39  Rutgers                10.6416
+  40  Kentucky               10.3532
+  41  UNLV                   10.1947
+  42  Memphis                10.1168
+  43  Liberty                9.8526
+  44  Georgia Tech           9.4029
+  45  Maryland               8.8638
+  46  SMU                    8.7508
+  47  Texas Tech             8.5274
+  48  Florida                8.5270
+  49  San José St.           8.4553
+  50  Bowling Green          8.3468
+  51  West Virginia          8.2972
+  52  Air Force              8.0691
+  53  Georgia St.            7.9741
+  54  Boise St.              7.1094
+  55  South Carolina         6.8013
+  56  Appalachian St.        6.4512
+  57  UCLA                   6.2947
+  58  Wyoming                6.2926
+  59  UCF                    6.0318
+  60  TCU                    5.6612
+  61  Ohio                   5.6473
+  62  Boston College         5.5706
+  63  Minnesota              5.5678
+  64  Western Kentucky       5.2947
+  65  Marshall               5.2046
+  66  Illinois               5.1780
+  67  Northwestern           5.1678
+  68  Colorado               5.0341
+  69  California             4.9971
+  70  New Mexico St.         4.7450
+  71  Nebraska               4.5705
+  72  BYU                    4.5651
+  73  Virginia Tech          4.4490
+  74  Syracuse               4.4311
+  75  UTSA                   4.3271
+  76  Fresno St.             4.2561
+  77  Wisconsin              4.1813
+  78  Jacksonville St.       4.0694
+  79  Texas St.              4.0348
+  80  Georgia Southern       3.9546
+  81  Washington St.         3.7630
+  82  South Alabama          3.7327
+  83  Mississippi St.        3.4529
+  84  Old Dominion           3.3918
+  85  Arkansas St.           3.2912
+  86  Houston                3.2426
+  87  Wake Forest            3.0284
+  88  Utah St.               2.5589
+  89  Navy                   2.3650
+  90  Central Michigan       2.3050
+  91  Army                   2.2454
+  92  Purdue                 2.2098
+  93  Arizona St.            2.0267
+  94  Indiana                1.9925
+  95  Baylor                 1.9583
+  96  Western Michigan       1.8531
+  97  Michigan St.           1.8167
+  98  Louisiana              1.7477
+  99  Arkansas               1.6892
+ 100  Florida Atlantic       1.5942
+ 101  Rice                   1.5656
+ 102  San Diego St.          1.4568
+ 103  Stanford               1.4568
+ 104  Virginia               1.2176
+ 105  Northern Illinois      1.2120
+ 106  Cincinnati             1.1020
+ 107  UAB                    1.0967
+ 108  Middle Tennessee       1.0920
+ 109  Southern Miss          1.0674
+ 110  Buffalo                0.9765
+ 111  South Florida          0.9523
+ 112  Tulsa                  0.9422
+ 113  UTEP                   0.9152
+ 114  Massachusetts          0.9060
+ 115  Pitt                   0.8209
+ 116  Colorado St.           0.8172
+ 117  Charlotte              0.7889
+ 118  East Carolina          0.7857
+ 119  Louisiana Tech         0.7850
+ 120  Hawai'i                0.7663
+ 121  Ball St.               0.7401
+ 122  Eastern Michigan       0.6671
+ 123  North Texas            0.6613
+ 124  Vanderbilt             0.5426
+ 125  Florida International  0.4954
+ 126  New Mexico             0.4465
+ 127  Temple                 0.4426
+ 128  Louisiana Monroe       0.4055
+ 129  Sam Houston            0.2435
+ 130  Nevada                 0.1974
+ 131  Akron                  0.0778
+ 132  Connecticut            0.0597
+ 133  Kent St.               0.0000
